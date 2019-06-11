@@ -1,0 +1,14 @@
+skill_id,skill_name,level
+0501,Linux,100
+0502,Windows Server,81
+0503,Google Cloud,76
+0504,Amazon Web Services,89
+0505,Azure,81
+0506,IBM Cloud,98
+0507,Solaris,90
+0508,Apple,67
+0509,Big Data,91
+0510,High Performance Computing,83
+0511,CICS,58
+0512,Docker,78
+0513,Microservices,72

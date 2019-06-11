@@ -1,0 +1,14 @@
+skill_id,skill_name,level
+0401,PostgreSQL,78
+0402,MySQL,81
+0403,Oracle,94
+0404,Sybase,88
+0405,SQL Server,77
+0406,Cassandra,81
+0407,MongoDB,87
+0408,Elasticsearch,81
+0409,HBase,84
+0410,ArangoDB,79
+0411,Neo4J,82
+0412,CouchDB,83
+0413,MemcacheDB,71
